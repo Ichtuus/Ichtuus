@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 </div>
 azertyuiop
 <div>
+    
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichtuus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
