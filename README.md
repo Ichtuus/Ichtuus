@@ -9,12 +9,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-    <!--<div id="header">
-    <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100"/>
-  </div>-->
-    <a href="https://www.linkedin.com/in/nicolas-d-5b6708162">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+
+<a href="https://www.linkedin.com/in/nicolas-d-5b6708162">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichtuus&show_icons=true&theme=tokyonight)
     
