@@ -22,5 +22,5 @@ Here are some ideas to get you started:
     </a>
   </div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichtuus&show_icons=true&theme=synthwave)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichtuus&show_icons=true&theme=gruvbox)
 </div>
