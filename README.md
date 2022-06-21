@@ -30,13 +30,11 @@ Here are some ideas to get you started:
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichtuus&show_icons=true&theme=tokyonight)
     
-
-
 </div>
+
 <div>
 azertyuiop
-</div>
-<div>
+
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichtuus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
