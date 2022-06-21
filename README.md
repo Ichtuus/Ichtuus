@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div style="display: flex;flex-wrap: wrap;" align="center">
     <!--<div id="header">
     <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100"/>
   </div>-->
