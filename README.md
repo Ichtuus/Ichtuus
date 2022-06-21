@@ -22,12 +22,13 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichtuus&show_icons=true&theme=tokyonight)
 </div>
 
+<span>
 - :telescope: I’m working as a Frontend Engineer.
 
 - :seedling: Exploring to become an [Opquast]([url](https://www.opquast.com/certification/)) expert.
 
 - :zap: In my free time, I fight with my kids.
-
+</span>
 <div align="right">
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichtuus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
