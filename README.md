@@ -21,12 +21,11 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichtuus&show_icons=true&theme=tokyonight)
     
-    
-    - :telescope: I’m working as a Frontend Engineer.
+- :telescope: I’m working as a Frontend Engineer.
 
-    - :seedling: Exploring to become an [Opquast]([url](https://www.opquast.com/certification/)) expert.
+- :seedling: Exploring to become an [Opquast]([url](https://www.opquast.com/certification/)) expert.
 
-    - :zap: In my free time, I fight with my kids.
+- :zap: In my free time, I fight with my kids.
 </div>
 
 <span align="right">
