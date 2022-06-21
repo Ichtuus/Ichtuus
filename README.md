@@ -17,4 +17,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichtuus)](https://github.com/anuraghazra/github-readme-stats)
