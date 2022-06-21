@@ -11,6 +11,7 @@
 -->
 
 <div align="center">
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichtuus&show_icons=true&theme=tokyonight)
     
 - :telescope: I’m working as a Frontend Engineer.
