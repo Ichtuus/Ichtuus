@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex;flex-wrap: wrap;" align="center">
+<div align="center">
     <!--<div id="header">
     <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100"/>
   </div>-->
@@ -22,16 +22,16 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichtuus&show_icons=true&theme=tokyonight)
 </div>
 
-<div align="left">
+<span align="left">
 
 - :telescope: I’m working as a Frontend Engineer.
 
 - :seedling: Exploring to become an [Opquast]([url](https://www.opquast.com/certification/)) expert.
 
 - :zap: In my free time, I fight with my kids.
-</div>
+</span>
 
-<div align="right">
+<span align="right">
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichtuus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</span>
