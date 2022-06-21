@@ -10,10 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/nicolas-d-5b6708162">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
+<div align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichtuus&show_icons=true&theme=tokyonight)
     
 - :telescope: I’m working as a Frontend Engineer.
@@ -23,3 +20,9 @@
 - :zap: In my free time, I fight with my kids.
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichtuus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.linkedin.com/in/nicolas-d-5b6708162">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+  
+</div>
