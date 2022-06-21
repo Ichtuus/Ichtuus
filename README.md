@@ -22,6 +22,5 @@ Here are some ideas to get you started:
     </a>
   </div>
 
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichtuus)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichtuus&show_icons=true&theme=radical)
 </div>
