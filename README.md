@@ -1,14 +1,5 @@
 <!--
 **Ichtuus/Ichtuus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -30,7 +21,15 @@ Here are some ideas to get you started:
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichtuus&show_icons=true&theme=tokyonight)
 </div>
-azertyuiop
+
+- :telescope: I’m working as a Frontend Engineer.
+
+- :seedling: Exploring to become an [Opquast]([url](https://www.opquast.com/certification/)) expert.
+
+- :zap: In my free time, I fight with my kids.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-d-5b6708162)
+
 <div align="right">
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichtuus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
