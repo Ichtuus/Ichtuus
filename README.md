@@ -22,12 +22,12 @@
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichtuus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.linkedin.com/in/nicolas-d-5b6708162">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+  <a href="https://www.linkedin.com/in/nicolas-d-5b6708162">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   
-  <a href=""https://www.opquast.com/certification/scores/>
-  <img src="https://res.cloudinary.com/opquast/image/upload/w_150/v1/badges/MQW-V4-2020/fr/SVG/badge_avance.svg" alt="opquast avancé"/>
+  <a href="https://www.opquast.com/certification/scores/>
+    <img src="https://res.cloudinary.com/opquast/image/upload/w_150/v1/badges/MQW-V4-2020/fr/SVG/badge_avance.svg" height="250" width="250" alt="opquast avancé"/>
   </a>
   
 </div>
